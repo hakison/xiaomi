@@ -30,11 +30,11 @@
           ]
         },
         {
-          "name": "Truyền Hình_SportTV",
+          "name": "MY TV VNPT",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/logo1.pn",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/sporstv.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/MyTV_4.64.apk",
           "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"
