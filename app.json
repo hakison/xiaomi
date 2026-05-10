@@ -88,10 +88,10 @@
           "name": "MHP",
           "versionName": "3.10.13",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/app_banner.png",
+          "logo": "https://github.com/hakison/xiaomi/releases/download/khoapp1/MHP.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/quantv.apk",
           "preview": [
-            "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/app_banner.png"
+            "https://github.com/hakison/xiaomi/releases/download/khoapp1/MHP.png"
           ]
         },
         {
