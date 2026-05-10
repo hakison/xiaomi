@@ -8,7 +8,7 @@
           "versionName": "2.3",
           "type": "Giải Trí",
           "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vietplayTV.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vietplayTV.apk",
           "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg"
@@ -94,10 +94,10 @@
           "name": "FPTPlay",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/hakison/xiaomi/releases/download/khoapp1/logo1.png",
-          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/base.1.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
+          "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk",
           "preview": [
-            "https://github.com/hakison/xiaomi/releases/download/khoapp1/anh1.png"
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
           ]
         },
         {
@@ -115,7 +115,7 @@
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/blob/main/Apps/DLSTORE/dl.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/iqy.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
           ]
