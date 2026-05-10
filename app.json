@@ -275,11 +275,11 @@
     "utilities": {
       "apps": [
         {
-          "name": "Truyền Màn Hình",
-          "versionName": "5.0.6",
+          "name": "Quét Bluetouch",
+          "versionName": "2.0.6",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Air.Receiver.5.0.6.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Di.u.khi.n.t.xa.va.ph.ki.n_2.0.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
         },
         {
