@@ -299,11 +299,11 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/anh1.png"]
         },
         {
-          "name": "trình Chiếu Web",
-          "versionName": "2.2.0",
+          "name": "DOWNLOADER",
+          "versionName": "1.5.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/Web Video Caster Receiver_2.0.0.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Downloader.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
         },
         {
