@@ -90,7 +90,8 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/logo.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/quantv.apk",
-          
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"
           ]
         },
         {
