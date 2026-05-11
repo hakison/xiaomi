@@ -392,11 +392,11 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
         },
         {
-          "name": "GBoadr",
+          "name": "CÀI ĐẶT ANDROI",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/GBoard.apk",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/SETTING/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/startSettings.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
         }
       ]
