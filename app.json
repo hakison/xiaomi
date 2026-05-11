@@ -88,7 +88,7 @@
           "name": "TH Việt Nam",
           "versionName": "3.10.13",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/logo.png",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/quantv.apk",
           "preview": [
             "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/logo.png"
@@ -98,7 +98,7 @@
           "name": "FPTPlay",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/logo.png",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png",
           "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk",
           "preview": [
             "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/logo.png"
