@@ -101,27 +101,27 @@
           "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png",
           "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk",
           "preview": [
-            "https://github.com/hakison/xiaomi/blob/main/Apps/MHP/logo.png"
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png"
           ]
         },
         {
-          "name": "bilibili",
-          "versionName": "3.12.1",
+          "name": "TIVI VAPPTV",
+          "versionName": "1.0.2.3",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/RoGaiTri_v1.1.5.apk",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/VAPPtv/vapp-logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vapptv_1.0.2_3.apk",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/VAPPtv/vapp-logo.png"
           ]
         },
         {
-          "name": "iQIYI",
-          "versionName": "8.8.1",
+          "name": "OK TIVI",
+          "versionName": "8.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/iqy.apk",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/oktv.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Ok-tivi-V8_1.apk",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
+            "https://raw.githubusercontent.com/https/hakison/xiaomi/blob/main/Apps/OK%20TV/oktv.png"
           ]
         },
         {
