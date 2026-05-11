@@ -19,14 +19,14 @@
           ]
         },
         {
-          "name": "Truyền Hình_CòTV",
-          "versionName": "1.1.3",
+          "name": "TH BÓNG ĐÁ NƯỚC NGOÀI",
+          "versionName": "2.1",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
-          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/spottzx/logo%20(3).png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SportzX_v2.1_new.apk",
+          "note": "TV là ứng dụng xem bóng đá nước ngoài trực tuyến miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/spottzx/logo%20(3).png"
           ]
         },
         {
