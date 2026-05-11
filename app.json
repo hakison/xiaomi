@@ -98,10 +98,10 @@
           "name": "FPTPlay",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png",
           "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk",
           "preview": [
-            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png"
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png"
           ]
         },
         {
