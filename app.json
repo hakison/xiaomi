@@ -239,10 +239,10 @@
         },
         {
           "name": "Smartyoutube",
-          "versionName": "31.57",
+          "versionName": "31.63",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmartTube_stable_31.57.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmartTube_stable.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
         {
