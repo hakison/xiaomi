@@ -182,12 +182,12 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
         },
         {
-          "name": "Rổ Phim",
-          "versionName": "1.0.3",
+          "name": "PHIM IQIY",
+          "versionName": "8.12",
           "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/rophimtv-1.0.3.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg"]
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/iQIYI.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
         },
         {
           "name": "Phim 4K",
