@@ -158,12 +158,12 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
           },
          {
-          "name": "Netflix",
-          "versionName": "9.53.0",
+          "name": "KODI FPT",
+          "versionName": "21.2",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/kodi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Kodi.v.21.2.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/kodi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png"]
         },
         {
           "name": "Netflix",
