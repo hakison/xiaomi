@@ -52,14 +52,14 @@
           ]
         },
         {
-          "name": "Truyền Hình_iMedia",
+          "name": "Truyền Hình mitv",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/xiaomivtv.V1.apk",
           "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png"
           ]
         },
         {
