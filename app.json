@@ -304,14 +304,6 @@
           "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/AN/t%E1%BA%A3i-xu%E1%BB%91ng-_1_.png"]
         },
         {
-          "name": "DLStore",
-          "versionName": "phiên bản mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/logo2.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/dl.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/anh2.png"]
-        },
-        {
           "name": "MStore",
           "versionName": "2.0",
           "type": "Tiện ích",
