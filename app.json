@@ -155,12 +155,12 @@
           "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/kodi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png"]
         },
         {
-          "name": "Netflix",
-          "versionName": "9.50.0",
+          "name": "PHIM 4K",
+          "versionName": "2.5.8",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.50.2.build.8.63993.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/PHIM4K/4k.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/phim4k.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/PHIM4K/4k.png"]
         },
         {
           "name": "Phim Hay",
