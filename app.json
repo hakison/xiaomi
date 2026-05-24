@@ -21,10 +21,10 @@
           "name": "OK TIVI",
           "versionName": "8.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/logook.jpg",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/ic_app_icon_square.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Ok-tivi-V8_1.apk",
           "preview": [
-            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/logook.jpg"
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/ic_app_icon_square.png"
           ]
         },
         {
