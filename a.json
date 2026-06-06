@@ -1,0 +1,335 @@
+{
+  "data": {
+    "notification": {
+      "note": " HẢI XIAOMI ĐÀ NẴNG TÀI TRỢ TRƯƠNG TRÌNH NÀY ",
+      "photo": "https://github.com/hakison/xiaomi/releases/download/khoapp1/White.and.Blue.Creative.Logo.png"   
+    },
+
+    "tivi": {
+      "apps": [
+        {
+          "name": "TH Việt Nam",
+          "versionName": "3.10.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/quantv.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/MHP/logo.png"
+          ]
+        },
+        {
+          "name": "HS TIVI",
+          "versionName": "8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/ic_app_icon_square.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Ok-tivi-V8_1.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/ic_app_icon_square.png"
+          ]
+        },
+        {
+          "name": "Truyền Hình mitv",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/xiaomivtv.V1.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png"
+          ]
+        },
+        {
+          "name": "CÒ TIVI",
+          "versionName": "1.1.3",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/C%C3%92%20tivi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(2).png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Co.TiVi_1.1.3.apk",
+          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/C%C3%92%20tivi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(2).png"
+          ]
+        },
+        {
+          "name": "TH BÓNG ĐÁ NƯỚC NGOÀI",
+          "versionName": "2.1",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/spottzx/logo%20(3).png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SportzX_v2.1_new.apk",
+          "note": "TV là ứng dụng xem bóng đá nước ngoài trực tuyến miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/spottzx/logo%20(3).png"
+          ]
+        },
+        {
+          "name": "MY TV VNPT",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/MyTV_4.64.apk",
+          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png"
+          ]
+        },
+        {
+          "name": "GetOut",
+          "versionName": "3.2.0",
+          "type": "Bóng đá",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/getout.apk",
+          "note": "Xem truyền hình, bóng đá miễn phí.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg"
+          ]
+        },
+        {
+          "name": "VieON",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
+          "note": "Ứng dụng VieON xem phim, truyền hình.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"
+          ]
+        },
+        
+        {
+          "name": "FPTPlay",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png",
+          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/FPT.Play_7.31.7.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png"
+          ]
+        },
+        {
+          "name": "TIVI VAPPTV",
+          "versionName": "1.0.2.3",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/VAPPtv/vapp-logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vapptv_1.0.2_3.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/VAPPtv/vapp-logo.png"
+          ]
+        },
+        
+        {
+          "name": "TV360",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"
+          ]
+        },
+        {
+          "name": "VTVGO",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
+          ]
+        }
+      ]
+    },
+    
+    "entertainment": {
+      "apps": [
+        {
+            "name": "Youtube",
+            "versionName": "mới nhất",
+            "type": "Giải Trí",
+            "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
+            "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/youtube.apk",
+            "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
+        },
+        {
+            "name": "Smartyoutube",
+            "versionName": "31.63",
+            "type": "Giải Trí",
+            "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
+            "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmartTube_stable.apk",
+            "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        },
+        {
+            "name": "TizenYoutube",
+            "versionName": "mới nhất",
+            "type": "Giải Trí",
+            "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
+            "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTube.apk",
+            "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
+        },
+        {
+          "name": "Netflix",
+          "versionName": "bản cho tivi xiaomi",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Netflix-02.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+        },
+
+        {
+          "name": "KODI FPT",
+          "versionName": "21.2",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/kodi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Kodi.v.21.2.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/kodi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png"]
+        },
+        {
+          "name": "PHIM 4K",
+          "versionName": "2.5.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/PHIM4K/4k.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/phim4k.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/PHIM4K/4k.png"]
+        },
+        
+        {
+          "name": "PHIM IQIY",
+          "versionName": "8.12",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/phim%20IQYI/logo1.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/iQIYI.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/phim%20IQYI/anh1.png"]
+        },
+        {
+          "name": "CHỢ PHIM",
+          "versionName": "1.0.3",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/chophim1.0.3.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
+        },
+
+        
+
+        {
+          "name": "MapVoice",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png"]
+        },
+        
+      
+        {
+          "name": "Spotify",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/spotify.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
+        }
+      
+        
+      ]
+     },
+        
+    "utilities": {
+      "apps": [
+        {
+          "name": "Quét Bluetouch",
+          "versionName": "2.0.6",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Di.u.khi.n.t.xa.va.ph.ki.n_2.0.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
+        },
+        {
+          "name": "AirScreen",
+          "versionName": "2.14.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/AirScreen.v2.14.1.Mod.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
+        },
+        {
+          "name": "Miracast",
+          "versionName": "1.3.2",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/Miracast 1.3.2.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/anh1.png"]
+        },
+        {
+          "name": "DOWNLOADER",
+          "versionName": "1.5.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/downloader/logo%20(2).png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Downloader.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
+        },
+        {
+          "name": "Quản Lý File",
+          "versionName": "phiên bản mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/AN/t%E1%BA%A3i-xu%E1%BB%91ng-_1_.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/an.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/AN/t%E1%BA%A3i-xu%E1%BB%91ng-_1_.png"]
+        },
+        {
+          "name": "MStore",
+          "versionName": "2.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Mstore_2.0.0.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
+        }
+      ]
+    },
+
+    "childre": {
+      "apps": [
+        {
+          "name": "Google voice",
+          "versionName": "1.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Google.Kaniss.2.2.0.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
+        },
+        {
+          "name": "Fix_CậpNhậtThờiGian",
+          "versionName": "Mới Nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/com-cgutman-androidremotedebugger-16-62721314-9ebfb5f7a50f1713f1a835afa49995d2.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/anh.png"]
+        },
+        {
+          "name": "Giọng Nói KiKi",
+          "versionName": "24.1.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Kiki.24.01.01.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/anh.png"]
+        },
+        {
+          "name": "Duyệt WEB BROWSER",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/browser.2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg"]
+        },
+        
+      
+        {
+          "name": "CÀI ĐẶT ANDROI",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/SETTING/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/startSettings.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
+        }
+      ]
+    }
+  }
+}
