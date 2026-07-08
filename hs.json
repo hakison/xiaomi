@@ -221,12 +221,12 @@
         
 
         {
-          "name": "MapVoice",
+          "name": "SUPER Voice",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png"]
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/supervoice/supper.jpg",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/suppervoice-v2.4.4.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/supervoice/supper.jpg"]
         },
         
       
