@@ -230,15 +230,19 @@
         },
         
       
+      
+        
         {
-          "name": "Spotify",
+          "name": "TICTOK MOBI",
           "versionName": "mới nhất",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/spotify.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
+          "logo": "https://raw.githubusercontent.com/xiaomi/main/Apps/tictok/vecto_tiktok-552x400.jpg",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/tiktok.apk",
+          "preview": ["https://raw.githubusercontent.com/xiaomi/main/Apps/tictok/vecto_tiktok-552x400.jpg"]
         }
-      
+
+
+
         
       ]
      },
