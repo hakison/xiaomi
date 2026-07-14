@@ -175,6 +175,16 @@
             "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTube.apk",
             "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
+
+        {
+          "name": "Youtube KQC quốc tế",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTubeQT.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
+        },
+
         {
           "name": "Netflix",
           "versionName": "bản cho tivi xiaomi",
