@@ -184,6 +184,15 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTubeQT.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
+        
+        {
+          "name": "SUPER Voice",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/supervoice/supper.jpg",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/suppervoice-v2.4.4.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/supervoice/supper.jpg"]
+        },
 
         {
           "name": "Netflix",
@@ -228,16 +237,7 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
         },
 
-        
 
-        {
-          "name": "SUPER Voice",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/supervoice/supper.jpg",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/suppervoice-v2.4.4.apk",
-          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/supervoice/supper.jpg"]
-        },
         
       
         {
