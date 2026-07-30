@@ -327,7 +327,14 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg"]
         },
         
-      
+        { 
+          "name": "Google",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/google/google-logo.jpg ",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/v.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/google/google-logo.jpg"]
+        },
         {
           "name": "CÀI ĐẶT ANDROI",
           "versionName": "mới nhất",
