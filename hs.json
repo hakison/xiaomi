@@ -343,6 +343,14 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/startSettings.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
         },
+        {
+          "name": "Giọng nói KIKI",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/SETTING/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/kiki.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
+        },
 
         {
           "name": "Cập nhật Ứng dụng",
