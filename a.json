@@ -302,7 +302,17 @@
 
     "childre": {
       "apps": [
-        
+      
+
+        {
+          "name": "TH quốc tế",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmitvQT.apk",
+          "preview": [""]
+        },
+
         {
           "name": "Fix_CậpNhậtThờiGian",
           "versionName": "Mới Nhất",
