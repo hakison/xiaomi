@@ -126,6 +126,16 @@
           ]
         },
         {
+          "name": "FPTPlay",
+          "versionName": "fpt cho Smililed  androi 14",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png",
+          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/fptplay14_1.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png"
+          ]
+        },
+        {
           "name": "TV360",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
