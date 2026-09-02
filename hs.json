@@ -162,30 +162,38 @@
     "entertainment": {
       "apps": [
         {
-            "name": "Youtube",
-            "versionName": "mới nhất",
-            "type": "Giải Trí",
-            "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
-            "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/youtube.apk",
-            "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
+          "name": "Youtube",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/youtube.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
         {
-            "name": "Smartyoutube",
-            "versionName": "31.63",
-            "type": "Giải Trí",
-            "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-            "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmartTube_stable.apk",
-            "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+          "name": "Smartyoutube",
+          "versionName": "31.63",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmartTube_stable.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        },
+        
+        {
+          "name": "TizenYoutube",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTube.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
         {
-            "name": "TizenYoutube",
-            "versionName": "mới nhất",
-            "type": "Giải Trí",
-            "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
-            "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTube.apk",
-            "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
+          "name": "Youtube A43 2026",
+          "versionName": "A 43 2026",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/tizen_1.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
-
         {
           "name": "Youtube KQC quốc tế",
           "versionName": "mới nhất",
@@ -246,10 +254,6 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/chophim1.0.3.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
         },
-
-
-        
-      
         {
           "name": "TICTOK MOBI",
           "versionName": "mới nhất",
