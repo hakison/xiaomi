@@ -322,7 +322,14 @@
 
     "childre": {
       "apps": [
-      
+        {
+          "name": "EZVIZ CAMERA",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/EZvizcam/ezviz.jpg",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/ezviz.apk",
+          "preview": [""]
+        },
 
         {
           "name": "TIVI quốc tế",
