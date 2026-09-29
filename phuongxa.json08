@@ -1,498 +1,746 @@
 [
   {
     "province_code": "08",
-    "ward_name": "Phường Hà Giang 2"
+    "ward_name": "Phường Hà Giang 2",
+    "lat": 22.83,
+    "lon": 104.987
   },
   {
     "province_code": "08",
-    "ward_name": "Phường Hà Giang 1"
+    "ward_name": "Phường Hà Giang 1",
+    "lat": 22.817,
+    "lon": 104.98
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Ngọc Đường"
+    "ward_name": "Xã Ngọc Đường",
+    "lat": 22.844,
+    "lon": 105.016
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Phú Linh"
+    "ward_name": "Xã Phú Linh",
+    "lat": 22.752,
+    "lon": 105.02
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Lũng Cú"
+    "ward_name": "Xã Lũng Cú",
+    "lat": 23.361,
+    "lon": 105.318
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Đồng Văn"
+    "ward_name": "Xã Đồng Văn",
+    "lat": 23.241,
+    "lon": 105.262
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Sà Phìn"
+    "ward_name": "Xã Sà Phìn",
+    "lat": 23.252,
+    "lon": 105.265
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Phố Bảng"
+    "ward_name": "Xã Phố Bảng",
+    "lat": 23.253,
+    "lon": 105.185
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Lũng Phìn"
+    "ward_name": "Xã Lũng Phìn",
+    "lat": 23.135,
+    "lon": 105.279
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Mèo Vạc"
+    "ward_name": "Xã Mèo Vạc",
+    "lat": 23.163,
+    "lon": 105.41
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Sơn Vĩ"
+    "ward_name": "Xã Sơn Vĩ",
+    "lat": 23.247,
+    "lon": 105.47
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Sủng Máng"
+    "ward_name": "Xã Sủng Máng",
+    "lat": 23.165,
+    "lon": 105.319
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Khâu Vai"
+    "ward_name": "Xã Khâu Vai",
+    "lat": 23.114,
+    "lon": 105.481
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tát Ngà"
+    "ward_name": "Xã Tát Ngà",
+    "lat": 23.087,
+    "lon": 105.366
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Niêm Sơn"
+    "ward_name": "Xã Niêm Sơn",
+    "lat": 23.037,
+    "lon": 105.421
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Minh"
+    "ward_name": "Xã Yên Minh",
+    "lat": 23.071,
+    "lon": 105.211
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thắng Mố"
+    "ward_name": "Xã Thắng Mố",
+    "lat": 23.25,
+    "lon": 105.084
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bạch Đích"
+    "ward_name": "Xã Bạch Đích",
+    "lat": 23.171,
+    "lon": 105.054
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Mậu Duệ"
+    "ward_name": "Xã Mậu Duệ",
+    "lat": 23.066,
+    "lon": 105.238
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Ngọc Long"
+    "ward_name": "Xã Ngọc Long",
+    "lat": 22.982,
+    "lon": 105.313
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Đường Thượng"
+    "ward_name": "Xã Đường Thượng",
+    "lat": 22.986,
+    "lon": 105.239
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Du Già"
+    "ward_name": "Xã Du Già",
+    "lat": 22.931,
+    "lon": 105.223
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Quản Bạ"
+    "ward_name": "Xã Quản Bạ",
+    "lat": 23.067,
+    "lon": 104.955
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Cán Tỷ"
+    "ward_name": "Xã Cán Tỷ",
+    "lat": 23.127,
+    "lon": 105.016
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Nghĩa Thuận"
+    "ward_name": "Xã Nghĩa Thuận",
+    "lat": 23.128,
+    "lon": 104.949
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tùng Vài"
+    "ward_name": "Xã Tùng Vài",
+    "lat": 23.066,
+    "lon": 104.917
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Lùng Tám"
+    "ward_name": "Xã Lùng Tám",
+    "lat": 23.049,
+    "lon": 105.044
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Vị Xuyên"
+    "ward_name": "Xã Vị Xuyên",
+    "lat": 22.762,
+    "lon": 105.044
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Minh Tân"
+    "ward_name": "Xã Minh Tân",
+    "lat": 22.96,
+    "lon": 104.948
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thuận Hoà"
+    "ward_name": "Xã Thuận Hoà",
+    "lat": 22.49,
+    "lon": 105.099
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tùng Bá"
+    "ward_name": "Xã Tùng Bá",
+    "lat": 22.876,
+    "lon": 105.08
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thanh Thủy"
+    "ward_name": "Xã Thanh Thủy",
+    "lat": 22.49,
+    "lon": 105.099
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Lao Chải"
+    "ward_name": "Xã Lao Chải",
+    "lat": 22.837,
+    "lon": 104.768
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Cao Bồ"
+    "ward_name": "Xã Cao Bồ",
+    "lat": 22.756,
+    "lon": 104.869
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thượng Sơn"
+    "ward_name": "Xã Thượng Sơn",
+    "lat": 22.655,
+    "lon": 104.857
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Việt Lâm"
+    "ward_name": "Xã Việt Lâm",
+    "lat": 22.624,
+    "lon": 104.942
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Linh Hồ"
+    "ward_name": "Xã Linh Hồ",
+    "lat": 22.7,
+    "lon": 105.059
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bạch Ngọc"
+    "ward_name": "Xã Bạch Ngọc",
+    "lat": 22.588,
+    "lon": 105.049
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Minh Sơn"
+    "ward_name": "Xã Minh Sơn",
+    "lat": 22.824,
+    "lon": 105.201
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Giáp Trung"
+    "ward_name": "Xã Giáp Trung",
+    "lat": 22.769,
+    "lon": 105.307
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bắc Mê"
+    "ward_name": "Xã Bắc Mê",
+    "lat": 22.763,
+    "lon": 105.282
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Minh Ngọc"
+    "ward_name": "Xã Minh Ngọc",
+    "lat": 22.773,
+    "lon": 105.168
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Cường"
+    "ward_name": "Xã Yên Cường",
+    "lat": 22.685,
+    "lon": 105.378
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Đường Hồng"
+    "ward_name": "Xã Đường Hồng",
+    "lat": 22.644,
+    "lon": 105.424
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hoàng Su Phì"
+    "ward_name": "Xã Hoàng Su Phì",
+    "lat": 22.694,
+    "lon": 104.691
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bản Máy"
+    "ward_name": "Xã Bản Máy",
+    "lat": 22.783,
+    "lon": 104.583
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thàng Tín"
+    "ward_name": "Xã Thàng Tín",
+    "lat": 22.765,
+    "lon": 104.682
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Tiến"
+    "ward_name": "Xã Tân Tiến",
+    "lat": 22.744,
+    "lon": 104.765
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Pờ Ly Ngài"
+    "ward_name": "Xã Pờ Ly Ngài",
+    "lat": 22.705,
+    "lon": 104.625
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Nậm Dịch"
+    "ward_name": "Xã Nậm Dịch",
+    "lat": 22.658,
+    "lon": 104.705
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hồ Thầu"
+    "ward_name": "Xã Hồ Thầu",
+    "lat": 22.562,
+    "lon": 104.687
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thông Nguyên"
+    "ward_name": "Xã Thông Nguyên",
+    "lat": 22.521,
+    "lon": 104.738
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Pà Vầy Sủ"
+    "ward_name": "Xã Pà Vầy Sủ",
+    "lat": 22.663,
+    "lon": 104.427
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Xín Mần"
+    "ward_name": "Xã Xín Mần",
+    "lat": 22.634,
+    "lon": 104.505
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Trung Thịnh"
+    "ward_name": "Xã Trung Thịnh",
+    "lat": 22.702,
+    "lon": 104.558
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Nấm Dẩn"
+    "ward_name": "Xã Nấm Dẩn",
+    "lat": 22.613,
+    "lon": 104.485
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Quảng Nguyên"
+    "ward_name": "Xã Quảng Nguyên",
+    "lat": 22.57,
+    "lon": 104.577
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Khuôn Lùng"
+    "ward_name": "Xã Khuôn Lùng",
+    "lat": 22.518,
+    "lon": 104.506
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bắc Quang"
+    "ward_name": "Xã Bắc Quang",
+    "lat": 22.393,
+    "lon": 104.928
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Vĩnh Tuy"
+    "ward_name": "Xã Vĩnh Tuy",
+    "lat": 22.276,
+    "lon": 104.892
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Đồng Tâm"
+    "ward_name": "Xã Đồng Tâm",
+    "lat": 22.496,
+    "lon": 104.946
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Quang"
+    "ward_name": "Xã Tân Quang",
+    "lat": 22.497,
+    "lon": 104.874
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bằng Hành"
+    "ward_name": "Xã Bằng Hành",
+    "lat": 22.433,
+    "lon": 104.99
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Liên Hiệp"
+    "ward_name": "Xã Liên Hiệp",
+    "lat": 22.392,
+    "lon": 105.034
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hùng An"
+    "ward_name": "Xã Hùng An",
+    "lat": 22.341,
+    "lon": 104.874
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Đồng Yên"
+    "ward_name": "Xã Đồng Yên",
+    "lat": 22.198,
+    "lon": 104.775
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tiên Nguyên"
+    "ward_name": "Xã Tiên Nguyên",
+    "lat": 22.507,
+    "lon": 104.684
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Thành"
+    "ward_name": "Xã Yên Thành",
+    "lat": 22.413,
+    "lon": 104.549
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Quang Bình"
+    "ward_name": "Xã Quang Bình",
+    "lat": 22.385,
+    "lon": 104.654
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Trịnh"
+    "ward_name": "Xã Tân Trịnh",
+    "lat": 22.411,
+    "lon": 104.715
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bằng Lang"
+    "ward_name": "Xã Bằng Lang",
+    "lat": 22.364,
+    "lon": 104.636
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Xuân Giang"
+    "ward_name": "Xã Xuân Giang",
+    "lat": 22.321,
+    "lon": 104.669
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tiên Yên"
+    "ward_name": "Xã Tiên Yên",
+    "lat": 22.28,
+    "lon": 104.708
   },
   {
     "province_code": "08",
-    "ward_name": "Phường Nông Tiến"
+    "ward_name": "Phường Nông Tiến",
+    "lat": 21.814,
+    "lon": 105.227
   },
   {
     "province_code": "08",
-    "ward_name": "Phường Minh Xuân"
+    "ward_name": "Phường Minh Xuân",
+    "lat": 21.829,
+    "lon": 105.213
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Nà Hang"
+    "ward_name": "Xã Nà Hang",
+    "lat": 22.351,
+    "lon": 105.384
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thượng Nông"
+    "ward_name": "Xã Thượng Nông",
+    "lat": 22.61,
+    "lon": 105.504
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Côn Lôn"
+    "ward_name": "Xã Côn Lôn",
+    "lat": 22.528,
+    "lon": 105.441
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Hoa"
+    "ward_name": "Xã Yên Hoa",
+    "lat": 22.511,
+    "lon": 105.48
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hồng Thái"
+    "ward_name": "Xã Hồng Thái",
+    "lat": 22.42,
+    "lon": 105.505
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Lâm Bình"
+    "ward_name": "Xã Lâm Bình",
+    "lat": 22.477,
+    "lon": 105.25
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thượng Lâm"
+    "ward_name": "Xã Thượng Lâm",
+    "lat": 22.478,
+    "lon": 105.299
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Chiêm Hoá"
+    "ward_name": "Xã Chiêm Hoá",
+    "lat": 22.149,
+    "lon": 105.306
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bình An"
+    "ward_name": "Xã Bình An",
+    "lat": 22.368,
+    "lon": 105.187
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Minh Quang"
+    "ward_name": "Xã Minh Quang",
+    "lat": 22.325,
+    "lon": 105.188
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Trung Hà"
+    "ward_name": "Xã Trung Hà",
+    "lat": 22.299,
+    "lon": 105.107
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Mỹ"
+    "ward_name": "Xã Tân Mỹ",
+    "lat": 22.257,
+    "lon": 105.199
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Lập"
+    "ward_name": "Xã Yên Lập",
+    "lat": 22.218,
+    "lon": 105.347
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân An"
+    "ward_name": "Xã Tân An",
+    "lat": 22.193,
+    "lon": 105.209
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Kiên Đài"
+    "ward_name": "Xã Kiên Đài",
+    "lat": 22.176,
+    "lon": 105.346
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Kim Bình"
+    "ward_name": "Xã Kim Bình",
+    "lat": 22.094,
+    "lon": 105.311
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hoà An"
+    "ward_name": "Xã Hoà An",
+    "lat": 22.746,
+    "lon": 106.187
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tri Phú"
+    "ward_name": "Xã Tri Phú",
+    "lat": 22.021,
+    "lon": 105.41
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Nguyên"
+    "ward_name": "Xã Yên Nguyên",
+    "lat": 22.068,
+    "lon": 105.174
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hàm Yên"
+    "ward_name": "Xã Hàm Yên",
+    "lat": 22.095,
+    "lon": 105.011
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bạch Xa"
+    "ward_name": "Xã Bạch Xa",
+    "lat": 22.225,
+    "lon": 104.97
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Phù Lưu"
+    "ward_name": "Xã Phù Lưu",
+    "lat": 22.166,
+    "lon": 105.016
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Phú"
+    "ward_name": "Xã Yên Phú",
+    "lat": 22.125,
+    "lon": 104.988
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bình Xa"
+    "ward_name": "Xã Bình Xa",
+    "lat": 22.054,
+    "lon": 105.119
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thái Sơn"
+    "ward_name": "Xã Thái Sơn",
+    "lat": 21.992,
+    "lon": 105.069
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thái Hoà"
+    "ward_name": "Xã Thái Hoà",
+    "lat": 21.455,
+    "lon": 105.508
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hùng Đức"
+    "ward_name": "Xã Hùng Đức",
+    "lat": 21.914,
+    "lon": 105.1
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Lực Hành"
+    "ward_name": "Xã Lực Hành",
+    "lat": 22.01,
+    "lon": 105.21
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Kiến Thiết"
+    "ward_name": "Xã Kiến Thiết",
+    "lat": 22.002,
+    "lon": 105.32
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Xuân Vân"
+    "ward_name": "Xã Xuân Vân",
+    "lat": 21.945,
+    "lon": 105.227
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hùng Lợi"
+    "ward_name": "Xã Hùng Lợi",
+    "lat": 21.895,
+    "lon": 105.468
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Trung Sơn"
+    "ward_name": "Xã Trung Sơn",
+    "lat": 21.877,
+    "lon": 105.43
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Long"
+    "ward_name": "Xã Tân Long",
+    "lat": 21.873,
+    "lon": 105.227
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Yên Sơn"
+    "ward_name": "Xã Yên Sơn",
+    "lat": 21.864,
+    "lon": 105.371
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Thái Bình"
+    "ward_name": "Xã Thái Bình",
+    "lat": 21.797,
+    "lon": 105.26
   },
   {
     "province_code": "08",
-    "ward_name": "Phường Mỹ Lâm"
+    "ward_name": "Phường Mỹ Lâm",
+    "lat": 21.77,
+    "lon": 105.135
   },
   {
     "province_code": "08",
-    "ward_name": "Phường An Tường"
+    "ward_name": "Phường An Tường",
+    "lat": 21.784,
+    "lon": 105.222
   },
   {
     "province_code": "08",
-    "ward_name": "Phường Bình Thuận"
+    "ward_name": "Phường Bình Thuận",
+    "lat": 21.711,
+    "lon": 105.228
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Nhữ Khê"
+    "ward_name": "Xã Nhữ Khê",
+    "lat": 21.7,
+    "lon": 105.176
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Sơn Dương"
+    "ward_name": "Xã Sơn Dương",
+    "lat": 21.698,
+    "lon": 105.392
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Trào"
+    "ward_name": "Xã Tân Trào",
+    "lat": 21.775,
+    "lon": 105.444
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Bình Ca"
+    "ward_name": "Xã Bình Ca",
+    "lat": 21.737,
+    "lon": 105.283
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Minh Thanh"
+    "ward_name": "Xã Minh Thanh",
+    "lat": 21.753,
+    "lon": 105.426
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Đông Thọ"
+    "ward_name": "Xã Đông Thọ",
+    "lat": 21.652,
+    "lon": 105.278
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Tân Thanh"
+    "ward_name": "Xã Tân Thanh",
+    "lat": 21.626,
+    "lon": 105.41
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Hồng Sơn"
+    "ward_name": "Xã Hồng Sơn",
+    "lat": 21.593,
+    "lon": 105.291
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Phú Lương"
+    "ward_name": "Xã Phú Lương",
+    "lat": 21.542,
+    "lon": 105.432
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Sơn Thuỷ"
+    "ward_name": "Xã Sơn Thuỷ",
+    "lat": 20.314,
+    "lon": 104.746
   },
   {
     "province_code": "08",
-    "ward_name": "Xã Trường Sinh"
+    "ward_name": "Xã Trường Sinh",
+    "lat": 21.55,
+    "lon": 105.316
   }
 ]
