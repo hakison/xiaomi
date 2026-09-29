@@ -1,0 +1,522 @@
+[
+  {
+    "province_code": "40",
+    "ward_name": "Phường Thành Vinh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Trường Vinh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Vinh Phú"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Vinh Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Cửa Lò"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quế Phong"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Thông Thụ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tiền Phong"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tri Lễ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mường Quàng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳ Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Châu Tiến"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hùng Chân"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Châu Bình"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mường Xén"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mỹ Lý"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Bắc Lý"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Keng Đu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Huồi Tụ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mường Lống"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Na Loi"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nậm Cắn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hữu Kiệm"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Chiêu Lưu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mường Típ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Na Ngoi"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tương Dương"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nhôn Mai"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hữu Khuông"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nga My"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Lượng Minh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Yên Hòa"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Yên Na"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tam Quang"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tam Thái"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Thái Hòa"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Đàn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Lâm"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Thọ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Hưng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Mai"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Tây Hiếu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đông Hiếu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Khánh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳ Hợp"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Châu Hồng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Châu Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tam Hợp"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Minh Hợp"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mường Ham"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mường Chọng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Hoàng Mai"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Quỳnh Mai"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Tân Mai"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Văn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Tam"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Sơn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Anh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Lưu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Phú"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quỳnh Thắng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Bình Chuẩn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Mậu Thạch"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Cam Phục"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Châu Khê"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Con Cuông"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Môn Sơn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tân Kỳ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tân Phú"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Giai Xuân"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Đồng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tiên Đồng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tân An"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghĩa Hành"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Anh Sơn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Thành Bình Thọ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nhân Hòa"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Vĩnh Tường"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Anh Sơn Đông"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Yên Xuân"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hùng Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đức Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hải Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quảng Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Diễn Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Minh Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã An Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tân Châu"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Yên Thành"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Bình Minh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quang Đồng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Giai Lạc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đông Thành"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Vân Du"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Quan Thành"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hợp Minh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Vân Tụ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Bạch Ngọc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Lương Sơn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đô Lương"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Văn Hiến"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Thuần Trung"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Bạch Hà"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đại Đồng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hạnh Lâm"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Cát Ngạn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Tam Đồng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Sơn Lâm"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hoa Quân"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Xuân Lâm"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Kim Bảng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Bích Hào"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nghi Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hải Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Thần Lĩnh"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Văn Kiều"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Phúc Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Trung Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đông Lộc"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Phường Vinh Hưng"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Nam Đàn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Đại Huệ"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Vạn An"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Kim Liên"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Thiên Nhẫn"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hưng Nguyên"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Yên Trung"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Hưng Nguyên Nam"
+  },
+  {
+    "province_code": "40",
+    "ward_name": "Xã Lam Thành"
+  }
+]
