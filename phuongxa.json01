@@ -1,0 +1,507 @@
+[
+
+  {
+    "province_code": "01",
+    "ward_name": "Phường Ba Đình"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Ngọc Hà"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Giảng Võ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Hoàn Kiếm"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Cửa Nam"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Phú Thượng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Hồng Hà"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Tây Hồ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Bồ Đề"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Việt Hưng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Phúc Lợi"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Long Biên"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Nghĩa Đô"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Cầu Giấy"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Yên Hòa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Ô Chợ Dừa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Láng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Văn Miếu - Quốc Tử Giám"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Kim Liên"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Đống Đa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Hai Bà Trưng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Vĩnh Tuy"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Bạch Mai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Vĩnh Hưng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Định Công"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Tương Mai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Lĩnh Nam"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Hoàng Mai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Hoàng Liệt"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Yên Sở"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Phương Liệt"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Khương Đình"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Thanh Xuân"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Sóc Sơn"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Kim Anh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Trung Giã"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Đa Phúc"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Nội Bài"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Đông Anh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phúc Thịnh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thư Lâm"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thiên Lộc"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Vĩnh Thanh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phù Đổng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thuận An"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Gia Lâm"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Bát Tràng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Từ Liêm"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Thượng Cát"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Đông Ngạc"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Xuân Đỉnh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Tây Tựu"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Phú Diễn"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Xuân Phương"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Tây Mỗ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Đại Mỗ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thanh Trì"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Thanh Liệt"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Đại Thanh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Ngọc Hồi"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Nam Phù"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Yên Xuân"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Quang Minh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Yên Lãng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Tiến Thắng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Mê Linh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Kiến Hưng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Hà Đông"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Yên Nghĩa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Phú Lương"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Sơn Tây"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Tùng Thiện"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Đoài Phương"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Quảng Oai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Cổ Đô"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Minh Châu"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Vật Lại"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Bất Bạt"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Suối Hai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Ba Vì"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Yên Bài"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phúc Thọ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phúc Lộc"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hát Môn"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Đan Phượng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Liên Minh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Ô Diên"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hoài Đức"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Dương Hòa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Sơn Đồng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã An Khánh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Dương Nội"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Quốc Oai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Kiều Phú"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hưng Đạo"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phú Cát"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thạch Thất"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hạ Bằng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hòa Lạc"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Tây Phương"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Phường Chương Mỹ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phú Nghĩa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Xuân Mai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Quảng Bị"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Trần Phú"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hòa Phú"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thanh Oai"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Bình Minh"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Tam Hưng"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Dân Hòa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thường Tín"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hồng Vân"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Thượng Phúc"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Chương Dương"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phú Xuyên"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phượng Dực"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Chuyên Mỹ"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Đại Xuyên"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Vân Đình"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Ứng Thiên"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Ứng Hòa"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hòa Xá"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Mỹ Đức"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Phúc Sơn"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hồng Sơn"
+  },
+  {
+    "province_code": "01",
+    "ward_name": "Xã Hương Sơn"
+  }
+]
