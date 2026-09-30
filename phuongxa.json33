@@ -380,8 +380,8 @@
   {
     "province_code": "33",
     "ward_name": "Xã Bắc Đông Quan",
-    "lat": null,
-    "lon": null
+    "lat": 20.6082,
+    "lon": 106.2698
   },
   {
     "province_code": "33",
@@ -416,8 +416,8 @@
   {
     "province_code": "33",
     "ward_name": "Xã Thái Thụy",
-    "lat": null,
-    "lon": null
+    "lat": 20.6082,
+    "lon": 106.2698
   },
   {
     "province_code": "33",
@@ -428,8 +428,8 @@
   {
     "province_code": "33",
     "ward_name": "Xã Bắc Thụy Anh",
-    "lat": null,
-    "lon": null
+    "lat": 20.597,
+    "lon": 106.544
   },
   {
     "province_code": "33",
@@ -602,8 +602,8 @@
   {
     "province_code": "33",
     "ward_name": "Phường Thái Bình",
-    "lat": null,
-    "lon": null
+    "lat": 20.403,
+    "lon": 106.594
   },
   {
     "province_code": "33",

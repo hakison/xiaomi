@@ -20,8 +20,8 @@
   {
     "province_code": "51",
     "ward_name": "Xã Bình Sơn",
-    "lat": null,
-    "lon": null
+    "lat": 15.287,
+    "lon": 108.759
   },
   {
     "province_code": "51",
@@ -332,14 +332,14 @@
   {
     "province_code": "51",
     "ward_name": "Đặc khu Lý Sơn",
-    "lat": null,
-    "lon": null
+    "lat": 15.38,
+    "lon": 109.12
   },
   {
     "province_code": "51",
     "ward_name": "Phường Đăk Cấm",
-    "lat": null,
-    "lon": null
+    "lat": 14.369,
+    "lon": 108.0
   },
   {
     "province_code": "51",
@@ -350,8 +350,8 @@
   {
     "province_code": "51",
     "ward_name": "Phường Đăk Bla",
-    "lat": null,
-    "lon": null
+    "lat": 14.8603,
+    "lon": 108.3662
   },
   {
     "province_code": "51",

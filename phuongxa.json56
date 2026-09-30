@@ -14,14 +14,14 @@
   {
     "province_code": "56",
     "ward_name": "Phường Tây Nha Trang",
-    "lat": null,
-    "lon": null
+    "lat": 12.268,
+    "lon": 109.162
   },
   {
     "province_code": "56",
     "ward_name": "Phường Nam Nha Trang",
-    "lat": null,
-    "lon": null
+    "lat": 12.201,
+    "lon": 109.17
   },
   {
     "province_code": "56",
@@ -116,8 +116,8 @@
   {
     "province_code": "56",
     "ward_name": "Xã Tây Ninh Hòa",
-    "lat": null,
-    "lon": null
+    "lat": 11.9821,
+    "lon": 109.0462
   },
   {
     "province_code": "56",
@@ -128,8 +128,8 @@
   {
     "province_code": "56",
     "ward_name": "Phường Đông Ninh Hòa",
-    "lat": null,
-    "lon": null
+    "lat": 11.9821,
+    "lon": 109.0462
   },
   {
     "province_code": "56",
@@ -146,8 +146,8 @@
   {
     "province_code": "56",
     "ward_name": "Xã Nam Ninh Hòa",
-    "lat": null,
-    "lon": null
+    "lat": 11.9821,
+    "lon": 109.0462
   },
   {
     "province_code": "56",
@@ -266,8 +266,8 @@
   {
     "province_code": "56",
     "ward_name": "Phường Đông Hải",
-    "lat": null,
-    "lon": null
+    "lat": 12.069,
+    "lon": 108.961
   },
   {
     "province_code": "56",

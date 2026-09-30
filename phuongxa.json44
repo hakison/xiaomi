@@ -62,8 +62,8 @@
   {
     "province_code": "44",
     "ward_name": "Xã Tuyên Lâm",
-    "lat": null,
-    "lon": null
+    "lat": 17.984,
+    "lon": 105.842
   },
   {
     "province_code": "44",
@@ -80,8 +80,8 @@
   {
     "province_code": "44",
     "ward_name": "Xã Tuyên Hóa",
-    "lat": null,
-    "lon": null
+    "lat": 17.1886,
+    "lon": 106.6823
   },
   {
     "province_code": "44",
@@ -266,8 +266,8 @@
   {
     "province_code": "44",
     "ward_name": "Xã Vĩnh Linh",
-    "lat": null,
-    "lon": null
+    "lat": 17.027,
+    "lon": 106.961
   },
   {
     "province_code": "44",
@@ -284,8 +284,8 @@
   {
     "province_code": "44",
     "ward_name": "Xã Vĩnh Thủy",
-    "lat": null,
-    "lon": null
+    "lat": 17.1886,
+    "lon": 106.6823
   },
   {
     "province_code": "44",
@@ -356,8 +356,8 @@
   {
     "province_code": "44",
     "ward_name": "Xã Cồn Tiên",
-    "lat": null,
-    "lon": null
+    "lat": 16.899,
+    "lon": 107.006
   },
   {
     "province_code": "44",
@@ -464,7 +464,7 @@
   {
     "province_code": "44",
     "ward_name": "Đặc khu Cồn Cỏ",
-    "lat": null,
-    "lon": null
+    "lat": 17.16,
+    "lon": 107.34
   }
 ]

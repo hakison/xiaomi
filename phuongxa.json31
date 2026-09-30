@@ -416,8 +416,8 @@
   {
     "province_code": "31",
     "ward_name": "Phường Đông Hải",
-    "lat": null,
-    "lon": null
+    "lat": 20.847,
+    "lon": 106.733
   },
   {
     "province_code": "31",
@@ -446,8 +446,8 @@
   {
     "province_code": "31",
     "ward_name": "Phường Bạch Đằng",
-    "lat": null,
-    "lon": null
+    "lat": 20.956,
+    "lon": 106.749
   },
   {
     "province_code": "31",
@@ -674,13 +674,13 @@
   {
     "province_code": "31",
     "ward_name": "Đặc khu Cát Hải",
-    "lat": null,
-    "lon": null
+    "lat": 20.8,
+    "lon": 106.97
   },
   {
     "province_code": "31",
     "ward_name": "Đặc khu Bạch Long Vĩ",
-    "lat": null,
-    "lon": null
+    "lat": 20.13,
+    "lon": 107.72
   }
 ]

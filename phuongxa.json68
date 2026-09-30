@@ -8,8 +8,8 @@
   {
     "province_code": "68",
     "ward_name": "Phường Phú Thuỷ",
-    "lat": null,
-    "lon": null
+    "lat": 11.5995,
+    "lon": 107.9849
   },
   {
     "province_code": "68",
@@ -56,8 +56,8 @@
   {
     "province_code": "68",
     "ward_name": "Xã Tuy Phong",
-    "lat": null,
-    "lon": null
+    "lat": 11.345,
+    "lon": 108.745
   },
   {
     "province_code": "68",
@@ -266,8 +266,8 @@
   {
     "province_code": "68",
     "ward_name": "Đặc khu Phú Quý",
-    "lat": null,
-    "lon": null
+    "lat": 10.52,
+    "lon": 108.93
   },
   {
     "province_code": "68",
@@ -386,8 +386,8 @@
   {
     "province_code": "68",
     "ward_name": "Xã Đắk Song",
-    "lat": null,
-    "lon": null
+    "lat": 11.5995,
+    "lon": 107.9849
   },
   {
     "province_code": "68",
@@ -542,8 +542,8 @@
   {
     "province_code": "68",
     "ward_name": "Xã Phú Sơn Lâm Hà",
-    "lat": null,
-    "lon": null
+    "lat": 11.809,
+    "lon": 108.224
   },
   {
     "province_code": "68",

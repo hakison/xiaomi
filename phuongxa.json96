@@ -164,14 +164,14 @@
   {
     "province_code": "96",
     "ward_name": "Phường Tân Thành",
-    "lat": null,
-    "lon": null
+    "lat": 9.2137,
+    "lon": 105.2444
   },
   {
     "province_code": "96",
     "ward_name": "Phường Hòa Thành",
-    "lat": null,
-    "lon": null
+    "lat": 9.2137,
+    "lon": 105.2444
   },
   {
     "province_code": "96",
@@ -254,8 +254,8 @@
   {
     "province_code": "96",
     "ward_name": "Xã Khánh Hưng",
-    "lat": null,
-    "lon": null
+    "lat": 9.2137,
+    "lon": 105.2444
   },
   {
     "province_code": "96",
@@ -272,8 +272,8 @@
   {
     "province_code": "96",
     "ward_name": "Xã Tân Hưng",
-    "lat": null,
-    "lon": null
+    "lat": 9.01,
+    "lon": 105.079
   },
   {
     "province_code": "96",
