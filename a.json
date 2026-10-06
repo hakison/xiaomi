@@ -101,32 +101,14 @@
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png",
-          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/FPT.Play_7.31.7.apk",
+          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/fptplay.apk",
           "preview": [
             "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png"
           ]
         },
         
-        {
-          "name": "FPTPlay",
-          "versionName": "bản cũ k dùng dc thì tải bản này cho androi 14",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png",
-          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/fptplay14.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png"
-          ]
-        },
-        {
-          "name": "FPTPlay",
-          "versionName": "fpt cho Smililed  androi 14",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png",
-          "linkDownload":"https://github.com/hakison/xiaomi/releases/download/khoapp1/fptplay14_1.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/fpt/fpt.png"
-          ]
-        },
+        
+        
         {
           "name": "TV360",
           "versionName": "mới nhất",
@@ -162,14 +144,7 @@
     
     "entertainment": {
       "apps": [
-        {
-          "name": "Youtube",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/youtube.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
-        },
+        
         {
           "name": "Smartyoutube",
           "versionName": "32.56",
