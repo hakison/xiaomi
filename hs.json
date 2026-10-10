@@ -157,9 +157,9 @@
           "name": "Youtube",
           "versionName": "mới nhất",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTube.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
         {
           "name": "Youtube A43 2026",
