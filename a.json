@@ -8,7 +8,7 @@
     "tivi": {
       "apps": [
         {
-          "name": "Truyền Hình mitv",
+          "name": "Truyền Hình STV",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png",
@@ -185,7 +185,7 @@
           "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TizenTubeQT.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/youtubeqt.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
 
@@ -316,11 +316,11 @@
         },
 
         {
-          "name": "TIVI quốc tế",
-          "versionName": "mới nhất",
+          "name": "TH + youtube voice quốc tế",
+          "versionName": "dành riêng cho bản quốc té box th và voice nhớ cài youtube qt trên kho",
           "type": "Tiện ích",
           "logo": "",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/SmitvQT.apk",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vietmitv.apk",
           "preview": [""]
         },
 
