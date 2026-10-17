@@ -328,11 +328,11 @@
 
         {
           "name": "TH + youtube voice quốc tế",
-          "versionName": "dành riêng cho bản quốc té box th và voice nhớ cài youtube qt trên kho",
+          "versionName": "dành riêng cho bản quốc té box và voice nhớ cài youtube qt trên kho",
           "type": "Tiện ích",
-          "logo": "",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/blob/main/Apps/vietmitv/app_icon.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vietmitv.apk",
-          "preview": [""]
+          "preview": ["raw.githubusercontent.com/hakison/xiaomi/blob/main/Apps/vietmitv/app_banner.png"]
         },
 
         {
