@@ -221,7 +221,14 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/phim4k.apk",
           "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/PHIM4K/4k.png"]
         },
-        
+        {
+          "name": "NVC PHIM",
+          "versionName": "1.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/nvc%20film/ic_launcher.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/NVC.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/nvc%20film/launcher_icon.png"]
+        },
         {
           "name": "PHIM IQIY",
           "versionName": "8.12",
