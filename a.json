@@ -215,6 +215,17 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Kodi.v.21.2.apk",
           "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/kodi/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png"]
         },
+
+        {
+          "name": "NVC PHIM",
+          "versionName": "1.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/nvc%20film/ic_launcher.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/NVC.apk",
+          "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/nvc%20film/launcher_icon.png"]
+        },
+
+        
         {
           "name": "PHIM 4K",
           "versionName": "2.5.8",
