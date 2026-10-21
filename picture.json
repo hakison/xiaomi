@@ -70,5 +70,60 @@
         "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/9.mp4",
         "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/9.mp4",
         "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/9.mp4"
+    },
+    {
+        "location": "China",
+        "title": "Mountains",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/10.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/10.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/10.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/10.mp4"
+    },
+    {
+        "location": "China",
+        "title": "Paddy Field",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/11.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/11.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/11.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/11.mp4"
+    },
+    {
+        "location": "China",
+        "title": "Cliffs",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/12.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/12.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/12.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/12.mp4"
+    },
+    {
+        "location": "China",
+        "title": "Mountains",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/13.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/13.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/13.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/13.mp4"
+    },
+    {
+        "location": "China",
+        "title": "Paddy Field",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/14.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/14.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/14.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/14.mp4"
+    },
+    {
+        "location": "China",
+        "title": "Cliffs",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4"
     }
+
+
+
+
+
+
+
 ]
