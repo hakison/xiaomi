@@ -3,26 +3,26 @@
     {
         "location": "China",
         "title": "Mountains",
-        "url_1080p": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(1).jpg",
-        "url_1080p_hdr": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(1).jpg",
-        "url_4k": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(1).jpg",
-        "url_4k_hdr": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(1).jpg"
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(1).jpg",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(1).jpg",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(1).jpg",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(1).jpg"
     },
     {
         "location": "China",
         "title": "Paddy Field",
-        "url_1080p": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(10).jpg",
-        "url_1080p_hdr": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(10).jpg",
-        "url_4k": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(10).jpg",
-        "url_4k_hdr": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(10).jpg"
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(10).jpg",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(10).jpg",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(10).jpg",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(10).jpg"
     },
     {
         "location": "China",
         "title": "Cliffs",
-        "url_1080p": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(11).jpg",
-        "url_1080p_hdr": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(11).jpg",
-        "url_4k": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(11).jpgv",
-        "url_4k_hdr": "https://github.com/hakison/xiaomi/blob/main/Apps/picture/A%20(11).jpg"
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpgv",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg"
     }
 
 ]
