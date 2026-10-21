@@ -1,4 +1,3 @@
-
 [
     {
         "location": "China",
@@ -21,8 +20,31 @@
         "title": "Cliffs",
         "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg",
         "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg",
-        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpgv",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg",
         "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/A%20(11).jpg"
+    },
+    {
+        "location": "Wildlife",
+        "title": "Leopard Face",
+        "url_1080p": "https://githubusercontent.com",
+        "url_1080p_hdr": "https://githubusercontent.com",
+        "url_4k": "https://githubusercontent.com",
+        "url_4k_hdr": "https://githubusercontent.com"
+    },
+    {
+        "location": "Jungle",
+        "title": "Tiger in Leaves",
+        "url_1080p": "https://githubusercontent.com",
+        "url_1080p_hdr": "https://githubusercontent.com",
+        "url_4k": "https://githubusercontent.com",
+        "url_4k_hdr": "https://githubusercontent.com"
+    },
+    {
+        "location": "Tropics",
+        "title": "Keel-billed Toucan",
+        "url_1080p": "https://githubusercontent.com",
+        "url_1080p_hdr": "https://githubusercontent.com",
+        "url_4k": "https://githubusercontent.com",
+        "url_4k_hdr": "https://githubusercontent.com"
     }
-
 ]
