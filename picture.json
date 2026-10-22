@@ -118,8 +118,15 @@
         "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4",
         "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4",
         "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/15.mp4"
+    },
+    
+    {
+        "location": "Dubai",
+        "title": "Skyline",
+        "url_1080p": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/16.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/16.mp4",
+        "url_4k": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/16.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/picture/16.mp4"
     }
-    
-    
   
 ]
