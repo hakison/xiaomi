@@ -1,448 +1,168 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
-#-------------------VTV-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8Mbps)
-udp://@225.1.2.249:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2 (HD 8Mbps)
-udp://@225.1.2.13:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3 (HD 8Mbps)
-udp://@225.1.2.247:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV4.png",VTV4 (HD 8Mbps)
-udp://@225.1.2.20:30120
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8Mbps)
-udp://@225.1.2.190:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5 (HD 8Mbps)
-udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png",VTV5 Tây Nam Bộ (HD 8Mbps)
-udp://@225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên (HD 8Mbps)
-udp://@225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
-udp://@225.1.2.154:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7 (HD 8Mbps)
-udp://@225.1.2.96:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8 (HD 8Mbps)
-udp://@225.1.2.166:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9 (HD 8Mbps)
-udp://@225.1.1.128:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8Mbps)
-udp://@225.1.2.245:30120
-#-------------------Thiết yếu-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
-udp://@225.1.2.169:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
-udp://@225.1.2.217:30120
-#-------------------HTV/HTVC-------------------#
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 8Mbps)
-udp://@225.1.1.180:30120
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8Mbps)
-udp://@225.1.1.193:30120
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
-udp://@225.1.1.178:30120
-#EXTINF:0 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV4.png",HTV4 (HD 8Mbps)
-udp://@225.1.1.177:30120
-#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV5_BChannel.png",HTV5 BChannel (HD 8Mbps)
-udp://@225.1.2.189:30120
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8Mbps)
-udp://@225.1.1.192:30120
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (HD 8Mbps)
-udp://@225.1.1.190:30120
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
-udp://@225.1.1.165:30120
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 8Mbps)
-udp://@225.1.1.185:30120
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
-udp://@225.1.1.166:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình (HD 8Mbps)
-udp://@225.1.1.170:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 8Mbps)
-udp://@225.1.1.184:30120
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ (HD 8Mbps)
-udp://@225.1.1.171:30120
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 8Mbps)
-udp://@225.1.1.186:30120
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
-udp://@225.1.1.181:30120
-#-------------------SCTV-------------------#
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
-udp://@225.1.1.188:30120
-#-------------------Địa phương-------------------#
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H1_HaNoi.png",H1 | Hà Nội (HD 8Mbps)
-udp://@225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HaNoi.png",H2 | Hà Nội (HD 8Mbps)
-udp://@225.1.1.125:30120
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Bắc Ninh (HD 8Mbps)
-udp://@225.1.1.164:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh (HD 8Mbps)
-udp://@225.1.2.181:30120
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh (HD 8Mbps)
-udp://@225.1.2.180:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng (HD 8Mbps)
-udp://@225.1.1.44:30120
-#EXTINF:0 tvg-id="haiphong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Hải Phòng (HD 8Mbps)
-udp://@225.1.1.113:30120
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | Huế (HD 8Mbps)
-udp://@225.1.1.161:30120
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | Đà Nẵng (HD 8Mbps)
-udp://@225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng (HD 8Mbps)
-udp://@225.1.1.146:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai (HD 8Mbps)
-udp://@225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai (HD 8Mbps)
-udp://@225.1.1.151:30120
-#EXTINF:0 tvg-id="dongnai3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV3_DongNai.png",ĐNNRTV3 HD | Đồng Nai (HD 8Mbps)
-udp://@225.1.1.153:30120
-#EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1 (HD 8Mbps)
-udp://@225.1.1.132:30120
-#EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2 (HD 8Mbps)
-udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",Cần Thơ 3 (HD 8Mbps)
-udp://@225.1.1.159:30120
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV | Điện Biên (HD 8Mbps)
-udp://@225.1.1.74:30120
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV | Lai Châu (HD 8Mbps)
-udp://@225.1.2.36:30120
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | Lào Cai (HD 8Mbps)
-udp://@225.1.1.119:30120
-#EXTINF:0 tvg-id="sonla" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV HD | Sơn La (HD 8Mbps)
-udp://@225.1.1.98:30120
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | Tuyên Quang (HD 8Mbps)
-udp://@225.1.2.188:30120
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | Cao Bằng (HD 8Mbps)
-udp://@225.1.1.102:30120
-#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Lạng Sơn (HD 8Mbps)
-udp://@225.1.1.160:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | Thái Nguyên (HD 8Mbps)
-udp://@225.1.2.179:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV | Phú Thọ (HD 8Mbps)
-udp://@225.1.2.165:30120
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | Hưng Yên (HD 8Mbps)
-udp://@225.1.1.118:30120
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình (HD 8Mbps)
-udp://@225.1.2.185:30120
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An (HD 8Mbps)
-udp://@225.1.2.183:30120
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV | Hà Tĩnh (HD 8Mbps)
-udp://@225.1.1.75:30120
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | Quảng Trị (HD 8Mbps)
-udp://@225.1.1.117:30120
-#EXTINF:0 tvg-id="quangngai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi (HD 8Mbps)
-udp://@225.1.2.174:30120
-#EXTINF:0 tvg-id="quangngai2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi (HD 8Mbps)
-udp://@225.1.1.36:30120
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV | Gia Lai (HD 8Mbps)
-udp://@225.1.1.145:30120
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk (HD 8Mbps)
-udp://@225.1.1.64:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD | Khánh Hòa (HD 8Mbps)
-udp://@225.1.1.133:30120
-#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Khánh Hòa (HD 8Mbps)
-udp://@225.1.2.178:30120
-#EXTINF:0 tvg-id="lamdong1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Lâm Đồng (HD 8Mbps)
-udp://@225.1.2.177:30120
-#EXTINF:0 tvg-id="lamdong2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng (HD 8Mbps)
-udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="tayninh1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | Tây Ninh (HD 8Mbps)
-udp://@225.1.1.162:30120
-#EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp (HD 8Mbps)
-udp://@225.1.1.163:30120
-#EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp (HD 8Mbps)
-udp://@225.1.1.210:30120
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.155:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.154:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.235:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long (HD 8Mbps)
-udp://@225.1.2.25:30120
-#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 | Vĩnh Long (HD 8Mbps)
-udp://@225.1.2.172:30120
-#EXTINF:0 tvg-id="angiang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang (HD 8Mbps)
-udp://@225.1.2.182:30120
-#EXTINF:0 tvg-id="angiang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | An Giang (HD 8Mbps)
-udp://@225.1.2.173:30120
-#EXTINF:0 tvg-id="angiang3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",ATV3 | An Giang (HD 8Mbps)
-udp://@225.1.1.174:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV | Cà Mau (HD 8Mbps)
-udp://@225.1.1.104:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Thanh Hóa
-udp://@225.1.2.184:30120
-#-------------------Quốc tế-------------------#
-#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
-udp://@225.1.2.21:30120
-#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
-udp://@225.1.1.231:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang (HD 8Mbps)
-udp://@225.1.1.201:30120
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
-udp://@225.1.1.198:30120
-#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
-udp://@225.1.2.225:30120
-#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
-udp://@225.1.1.134:30120
-#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
-udp://@225.1.2.24:30120
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
-udp://@225.1.2.52:30120
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
-udp://@225.1.2.156:30120
-#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
-udp://@225.1.2.74:30120
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
-udp://@225.1.2.91:30120
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
-udp://@225.1.2.231:30120
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
-udp://@225.1.1.138:30120
-#EXTINF:0 tvg-id="cinemaworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
-udp://@225.1.1.142:30120
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
-udp://@225.1.2.86:30120
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
-udp://@225.1.2.157:30120
-#EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
-udp://@225.1.1.202:30120
-#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC (HD 8Mbps)
-udp://@225.1.1.232:30120
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-udp://@225.1.1.242:30120
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
-udp://@225.1.1.197:30120
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
-udp://@225.1.2.223:30120
-#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
-udp://@225.1.1.238:30120
-#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
-udp://@225.1.1.136:30120
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
-udp://@225.1.1.46:30120
-#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
-udp://@225.1.2.227:30120
-#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
-udp://@225.1.2.211:30120
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-udp://@225.1.2.233:30120
-#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
-udp://@225.1.1.196:30120
-#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
-udp://@225.1.2.144:30120
-#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
-udp://@225.1.1.47:30120
-#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
-udp://@225.1.2.215:30120
-#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8Mbps)
-udp://@225.1.1.236:30120
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie (HD 8Mbps)
-udp://@225.1.1.200:30120
-#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
-udp://@225.1.1.139:30120
-#-------------------3-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8.5Mbps)
-udp://@225.1.3.1:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2 (HD 8.5Mbps)
-udp://@225.1.3.5:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3 (HD 8.5Mbps)
-udp://@225.1.3.2:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV4.png",VTV4 (HD 8.5Mbps)
-udp://@225.1.3.6:30120
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8.5Mbps)
-udp://@225.1.3.95:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5 (HD 8.5Mbps)
-udp://@225.1.3.4:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
-udp://@225.1.3.42:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên (HD 8.5Mbps)
-udp://@225.1.3.30:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8.5Mbps)
-udp://@225.1.3.10:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7 (HD 8.5Mbps)
-udp://@225.1.3.15:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8 (HD 8.5Mbps)
-udp://@225.1.3.11:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9 (HD 8.5Mbps)
-udp://@225.1.3.9:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8.5Mbps)
-udp://@225.1.3.3:30120
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
-udp://@225.1.3.25:30120
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 8Mbps)
-udp://@225.1.3.28:30120
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
-udp://@225.1.3.34:30120
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
-udp://@225.1.3.36:30120
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ | Hải Phòng (HD 8Mbps)
-udp://@225.1.3.46:30120
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
-udp://@225.1.3.47:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
-udp://@225.1.3.54:30120
-#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV5_BChannel.png",HTV5 BChannel (HD 8Mbps)
-udp://@225.1.3.58:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 8Mbps)
-udp://@225.1.3.68:30120
-#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
-udp://@225.1.3.78:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng (HD 8Mbps)
-udp://@225.1.3.80:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình (HD 8Mbps)
-udp://@225.1.3.84:30120
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 8Mbps)
-udp://@225.1.3.125:30120
-#EXTINF:0 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV4.png",HTV4 (HD 8Mbps)
-udp://@225.1.3.127:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Thanh Hóa
-udp://@225.1.3.165:30120
-#-------------------FPT Play-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thanh Hóa
-udp://@225.1.4.162:30120
-#-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.1.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.4.199:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.4.200:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Multiscreen
-udp://@225.1.1.21:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Multiscreen
-udp://@225.1.1.22:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Multiscreen
-udp://@225.1.1.23:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 10
-udp://@225.1.1.10:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 12
-udp://@225.1.1.12:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 15
-udp://@225.1.1.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 17
-udp://@225.1.1.17:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 20
-udp://@225.1.1.20:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 27
-udp://@225.1.1.27:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 28
-udp://@225.1.1.28:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 30
-udp://@225.1.1.30:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 31
-udp://@225.1.1.31:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 32
-udp://@225.1.1.32:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 33
-udp://@225.1.1.33:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 34
-udp://@225.1.1.34:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 35
-udp://@225.1.1.35:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 37
-udp://@225.1.1.37:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 38
-udp://@225.1.1.38:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48
-udp://@225.1.1.48:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 49
-udp://@225.1.1.49:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50
-udp://@225.1.1.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 51
-udp://@225.1.1.51:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 52
-udp://@225.1.1.52:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53
-udp://@225.1.1.53:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 54
-udp://@225.1.1.54:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 55
-udp://@225.1.1.55:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 56
-udp://@225.1.1.56:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57
-udp://@225.1.1.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58
-udp://@225.1.1.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 59
-udp://@225.1.1.59:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 68
-udp://@225.1.1.68:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 69
-udp://@225.1.1.69:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 70
-udp://@225.1.1.70:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 71
-udp://@225.1.1.71:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 72
-udp://@225.1.1.72:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 78
-udp://@225.1.1.78:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 79
-udp://@225.1.1.79:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 80
-udp://@225.1.1.80:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 81
-udp://@225.1.1.81:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82
-udp://@225.1.1.82:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 83
-udp://@225.1.1.83:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84
-udp://@225.1.1.84:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 85
-udp://@225.1.1.85:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 86
-udp://@225.1.1.86:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 87
-udp://@225.1.1.87:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 88
-udp://@225.1.1.88:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 92
-udp://@225.1.1.92:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 93
-udp://@225.1.1.93:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 94
-udp://@225.1.1.94:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 95
-udp://@225.1.1.95:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 96
-udp://@225.1.1.96:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 97
-udp://@225.1.1.97:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 100
-udp://@225.1.1.100:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 101
-udp://@225.1.1.101:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48 (H265 FHD)
-udp://@225.1.2.48:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50 (H265 FHD)
-udp://@225.1.2.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53 (H265 FHD)
-udp://@225.1.2.53:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57 (H265 FHD)
-udp://@225.1.2.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58 (H265 FHD)
-udp://@225.1.2.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82 (H265 FHD)	
-udp://@225.1.2.82:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84 (H265 FHD)
-udp://@225.1.2.84:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 150 (H265 UHD)
-udp://@225.1.2.150:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 152 (H265 UHD)
-udp://@225.1.2.152:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 153 (H265 UHD)
-udp://@225.1.2.153:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 203 (H265 UHD)
-udp://@225.1.2.203:30120
-#-------------------FPT Advertisement-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",Dolife Hospital
-udp://@225.1.1.127:30120
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",Grand Phoenix Hotel
-udp://@225.1.1.66:30120
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Mira Hotel
-udp://@225.1.1.123:30120
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Ocean Resort
-udp://@225.1.1.121:30120
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#-----------------------Truyền Hình-------------------------------#
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
+
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="22b8cd8d92ab071051b41b2c09a65736",HTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc
+https://freem3u.xyz/api/live/play.m3u8?vid=14
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="aef2a410c83827f38f23b43163e41c0d",HTVC Gia Đình
+https://freem3u.xyz/api/live/play.m3u8?vid=11
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim
+https://freem3u.xyz/api/live/play.m3u8?vid=15
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="bfba9bb09043b9a567c4f8ef59bca7dc",HTVC Phụ Nữ
+https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=13
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC Plus
+https://freem3u.xyz/api/live/play.m3u8?vid=132
+
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/44c1Yoz.png",Vĩnh Long 3
+https://freem3u.xyz/api/live/play.m3u8?vid=219
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JWDsJxB.png",Vĩnh Long 4
+https://freem3u.xyz/api/live/play.m3u8?vid=220
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
+https://dethich.pw/thvl5/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
+https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 2
+https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
+https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
+https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
+https://freem3u.xyz/api/live/play.m3u8?vid=35
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 3
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
+https://freem3u.xyz/api/live/play.m3u8?vid=46
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
+https://freem3u.xyz/api/live/play.m3u8?vid=54
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
+https://freem3u.xyz/api/live/play.m3u8?vid=69
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 2
+https://freem3u.xyz/api/live/play.m3u8?vid=45
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 3
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png",Tây Ninh
+https://live-diaphuong-aws.vtvdigital.vn/BoOyJYUNkYybysXax5bI5Q/1791482400/aws-dp/tayninhtv/live/tayninhtv_720p/chunks.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng 1
+https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng 2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jtyDVU5.png",Đắk Lắk
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/z7l0ZZg.png",Gia Lai
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/HQ7jCa6.png",Thừa Thiên Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa 1
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/xl4m2mn.png",Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
+https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
+https://vips-livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/sPyR9t6.png",Bắc Ninh
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/kETe9LN.png",Cao Bằng
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/hMDRDxN.png",Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/4yIgKKx.png",Hà Tĩnh
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng 3
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JAglyuT.png",Hưng Yên
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/n02cvKQ.png",Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ldwQU4L.png",Lào Cai
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pL4NqYO.png",Ninh Bình
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/LXuRwJY.png",Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/KVia0uU.png",Quảng Ninh 1
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ci6kzgL.png",Quảng Ninh 3
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/xjkm6Zg.png",Sơn La
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/UwTCbZ5.png",Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/qPZeGPa.png",Tuyên Quang
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/QztqOe0.png",An Ninh TV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN
+https://live.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+
 
 
 
