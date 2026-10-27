@@ -19,6 +19,14 @@
           ]
         },
         {
+          "name": "TH + youtube voice quốc tế",
+          "versionName": "1.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/vietmitv/app_icon.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vietmitv.apk",
+          "preview": ["raw.githubusercontent.com/hakison/xiaomi/main/Apps/vietmitv/app_banner.png"]
+        },
+        {
           "name": "HS TIVI",
           "versionName": "8.1",
           "type": "Truyền hình trực tuyến",
@@ -315,7 +323,14 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/ezviz.apk",
           "preview": [""]
         },
-        
+        {
+          "name": "Dọn Rác Tivi quốc tế",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/cleanRAM.apk",
+          "preview": [""]
+        },
         {
           "name": "TH + youtube voice quốc tế",
           "versionName": "dành riêng cho bản quốc té box và voice nhớ cài youtube qt trên kho",
