@@ -72,7 +72,17 @@
           ]
         },
         
-
+        {
+          "name": "GETOUT V2 xịn nhất ",
+          "versionName": "v2",
+          "type": "Bóng ĐÁ+ TRuyền Hình",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Get_Out_2.0.apk",
+          "preview": [
+           "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg"
+          ]
+        },
+        
         {
           "name": "GetOut",
           "versionName": "3.2.0",
