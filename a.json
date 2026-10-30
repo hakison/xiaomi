@@ -71,16 +71,7 @@
             "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png"
           ]
         },
-        {
-          "name": "GETOUT V2 xịn nhất ",
-          "versionName": "v2",
-          "type": "Bóng ĐÁ+ TRuyền Hình",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Get_Out_2.0.apk",
-          "preview": [
-           "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg"
-          ]
-        },
+        
 
         {
           "name": "GetOut",
