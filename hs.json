@@ -147,6 +147,17 @@
           ]
         },
         {
+          "name": "Truyền Hình STV NĐ",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/sontvnd.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tivi/tivi.png"
+          ]
+        },
+        {
           "name": "TIVI VAPPTV",
           "versionName": "1.0.2.3",
           "type": "Truyền hình trực tuyến",
