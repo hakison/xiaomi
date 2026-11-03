@@ -1,0 +1,31 @@
+{
+  "product": "Projectivy Launcher",
+  "author": "Spocky",
+  "version": 9999,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "installPackages": [
+    {
+      "name": "[Wallpaper Plugin] Overflight",
+      "url": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Projectivy.Wallpaper.Overflight.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.overflight"
+    },
+    {
+      "name": "[Wallpaper Plugin] Daily Photos",
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-bingwallpaper/releases/download/1.10/ProjectivyPlugin-PhotoOfTheDay-1.10-c4-generic-release.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.photooftheday"
+    },
+    {
+      "name": "KHo Ứng dụng",
+      "url": "https://github.com/hakison/xiaomi/releases/download/khoapp1/smihomeall.apk" 
+    },
+    {
+      "name": "KHo Ứng dụng",
+      "url": "https://github.com/hakison/xiaomi/releases/download/khoapp1/smihomeall.apk" 
+    },
+    {
+      "name": "Downloader by AFTVnews",
+      "url": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Downloader.apk",
+      "package": "com.esaba.downloader"
+    }
+  ]
+}
