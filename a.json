@@ -39,6 +39,19 @@
         },
         
         {
+          "name": "ON VTVcab on",
+          "versionName": "1.1.3",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/ONCAB/on%20cab.png ",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/vtvcap.apk",
+          "note": "truyền hình ON VTV cab.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/ONCAB/on%20cab.png"
+          ]
+        },
+
+
+        {
           "name": "HÓNG BÓNG ĐÁ NEW",
           "versionName": "1.1.3",
           "type": "Giải Trí",
