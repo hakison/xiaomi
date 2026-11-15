@@ -217,6 +217,14 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
         {
+          "name": "Mê Phim",
+          "versionName": "bản mới",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/anibox/images.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/mephim.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
+        },
+        {
           "name": "PHIM ANIBOX",
           "versionName": "ANIBOX PHIM",
           "type": "Giải Trí",

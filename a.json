@@ -230,7 +230,14 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/AniBox.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
         },
-
+        {
+          "name": "Mê Phim",
+          "versionName": "bản mới",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/anibox/images.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/mephim.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
+        },
         {
           "name": "SUPER Voice",
           "versionName": "mới nhất",
