@@ -217,6 +217,22 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
         {
+          "name": "XIMAO FILM",
+          "versionName": "DESIG VIET",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/anibox/images.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/ximaofilm.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
+        },
+        {
+          "name": "PHIM AI Tổng hợp",
+          "versionName": "film AI",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/anibox/images.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/cinema.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
+        },
+        {
           "name": "Mê Phim",
           "versionName": "bản mới",
           "type": "Giải Trí",

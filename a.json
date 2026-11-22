@@ -212,8 +212,6 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/tizen_1.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
-
-        
         {
           "name": "Youtube KQC quốc tế",
           "versionName": "mới nhất",
@@ -221,6 +219,22 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/youtubeqt.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
+        },
+        {
+          "name": "XIMAO FILM",
+          "versionName": "DESIG VIET",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/anibox/images.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/ximaofilm.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
+        },
+        {
+          "name": "PHIM AI Tổng hợp",
+          "versionName": "film AI",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/anibox/images.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/cinema.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/mainApps/anibox/images.png"]
         },
         {
           "name": "PHIM ANIBOX",
@@ -273,8 +287,6 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/NVC.apk",
           "preview": ["https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/nvc%20film/launcher_icon.png"]
         },
-
-        
         {
           "name": "PHIM 4K",
           "versionName": "2.5.8",
@@ -300,9 +312,6 @@
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/chophim1.0.3.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
         },
-
-        
-        
         {
           "name": "TICTOK MOBI",
           "versionName": "mới nhất",
@@ -312,9 +321,6 @@
           "preview": ["https://raw.githubusercontent.com/xiaomi/main/Apps/tictok/vecto_tiktok-552x400.jpg"]
         }
 
-
-
-        
       ]
      },
         
