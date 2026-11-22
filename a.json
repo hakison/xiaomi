@@ -373,6 +373,14 @@
     "childre": {
       "apps": [
         {
+          "name": "Giao diện IOS new",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/tvos2.2/a.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/TVOS2.2.apk",
+          "preview": [""]
+        },
+        {
           "name": "Settingandori 11",
           "versionName": "mới nhất",
           "type": "Tiện ích",
@@ -380,7 +388,7 @@
           "linkDownload": " https://github.com/hakison/xiaomi/releases/download/khoapp1/settingandroi.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
         },
-
+        
         {
           "name": "EZVIZ CAMERA",
           "versionName": "mới nhất",
